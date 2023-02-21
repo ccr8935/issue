@@ -12,7 +12,7 @@ body.main {
 	background-image: url(./images/background.jpg);
 }
 #landing{
-	background: url(./images/logo.png);
+	background: url(./images/logo.PNG);
 	background-repeat: no-repeat;
 	background-size: 100% 100%;
 	padding-bottom: 500px;
